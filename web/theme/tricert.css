@@ -1,0 +1,164 @@
+#aiml_bot {
+	background-image: url(images/main_banner_right.png);
+	background-repeat: no-repeat;
+	float: right;
+	height: 205px;
+	position: relative;
+	width: 410px;
+}
+#banner_container {
+	height: 205px;
+	position: relative;
+	width: 960px;
+}
+#body_container {
+	position: relative;
+	width: 960px;
+}
+#flash_animation {
+	background-image: url(images/main_banner_left.png);
+	background-repeat: no-repeat;
+	float: left;
+	height: 205px;
+	position: relative;
+	width: 550px;
+}
+#header_container {
+	position: relative;
+	width: 960px;
+	z-index: 1;
+}
+#mdi_commands {
+	float: left;
+	height: 30px;
+	margin-bottom: 1px;
+	margin-top: 4px;
+	width: 200px;
+}
+#main_container {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	position: relative;
+	text-align: left;
+	width: 960px;
+}
+#mdi_container {
+	overflow: hidden;
+}
+#navigation {
+	height: 50px;
+        margin-bottom: 5px;
+	position: relative;
+	width: 960px;
+	z-index: 1;
+}
+#side_bar {
+	float: left;
+	margin-top: 5px;
+	position: relative;
+	width: 250px;
+}
+#site_content {
+	float: right;
+	margin-top: 5px;
+	position: relative;
+	width: 700px;
+}
+#mdi_body {
+	background-image: url(images/mdi_body.png);
+	background-repeat: repeat-y;
+	border-left: 1px Solid #5c6671;
+	border-right: 1px Solid #5c6671;
+	height: 500px;
+	overflow: hidden;
+	position: relative;
+	width: 698px;
+}
+#mdi_content_container {
+	margin-top: 5px;
+	overflow: hidden;
+	position: relative;
+	width: 700px;
+}
+#mdi_footer {
+	background-image: url(images/mdi_footer.png);
+	background-repeat: no-repeat;
+	height: 20px;
+	position: relative;
+	width: 700px;
+}
+#mdi_header {
+	position: relative;
+	width: inherit;
+}
+#mdi_toolbar {
+	float: left;
+	height: 35px;
+	position: relative;
+	width: 700px;
+}
+#mdi_header_left {
+	background-image: url(images/mdi_header_left.png);
+	background-repeat: no-repeat;
+	float: left;
+	height: 35px;
+	position: relative;
+	width: 20px;
+}
+#mdi_header_repeat {
+	background-image: url(images/mdi_header_repeat.png);
+	background-repeat: repeat-x;
+	float: left;
+	height: inherit;
+	overflow: hidden;
+	position: relative;
+	width: 660px;
+}
+#mdi_header_right {
+	background-image: url(images/mdi_header_right.png);
+	background-repeat: no-repeat;
+	float: right;
+	height: 35px;
+	position: relative;
+	width: 20px;
+}
+#panel_container {
+	margin-top: 5px;
+	position: relative;
+	width: 250px;
+}
+#panel_content {
+	margin: 10px;
+	position: relative;
+	width: 240px;
+}
+#panel_footer {
+	background-image: url(images/panel_footer.png);
+	background-repeat: no-repeat;
+	height: 20px;
+	position: relative;
+	width: inherit;
+}
+#panel_login_area {
+	background-image: url(images/panel_login_area.png);
+	background-repeat: no-repeat;
+	height: 40px;
+	position: relative;
+	width: inherit;
+}
+#panel_repeat {
+	background-image: url(images/panel_repeat.png);
+	background-repeat: repeat-y;
+	overflow: hidden;
+	position: relative;
+	width: inherit;
+}
+body {
+	background-color: #e5eafc;
+	color: #789;
+	font: 13px/16px "Lucida Grande", Arial, Sans-serif;
+	margin-left: 0;
+	margin-top: 0;
+	text-align: left;
+}
